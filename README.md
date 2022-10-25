@@ -18,13 +18,15 @@ To run this project on your computer you need:
 
    npm install
 
-   to install all the packages necessary for the program to work whcih are specified in package.json file
+   to install all the packages necessary for the program to work whiсh are specified in package.json file
 
 5. run the command
 
    node read.js
 
-CLI will display a question and ask the user to type an answer.
+Your Excel file can contain more than one sheet of data with each sheet representing a separate test.
+CLI will show a list of sheets. Choose any of them by typing their name. After that questions inside this sheet will be displayed in the console.
+CLI will ask you to type an answer.
 
 Example of a question:
 2+2 ->
