@@ -37,3 +37,5 @@ Create any questions you like. For example, you can type a sentence in English a
 
 The name of the Excel file should be test.xlsx
 The first row of the first column should contain word 'question', and the first row of the second column should contain word 'answer'.
+
+To leave the program at any time press ctrl+C on your keyboard.
